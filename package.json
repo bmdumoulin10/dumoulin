@@ -1,0 +1,43 @@
+{
+  "name": "site",
+  "version": "2.0.0",
+  "description": "Personal website ",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/server.js"
+  },
+  "keywords": [
+    "developer",
+    "designer",
+    "problem",
+    "solver",
+    "coding",
+    "programmer",
+    "javascript",
+    "netsuite",
+    "suitescript",
+    "software",
+    "engineer",
+    "applications",
+    "app",
+    "dev",
+    "application",
+    "developer",
+    "computers",
+    "mac",
+    "pc",
+    "linux",
+    "html",
+    "css",
+    "php",
+    "perch",
+    "cms",
+    "lamp",
+    "stack",
+    "mean",
+    "stack"
+  ],
+  "author": "Brian Dumoulin",
+  "license": "ISC"
+}
